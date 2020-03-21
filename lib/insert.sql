@@ -7,5 +7,5 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Bold Made","Games", 92346, "03/18/2020", "04/18/2020"),
 ("Ruination","Games", 92346, "03/18/2020", "04/18/2020"),
 ("Pax Pamir","Games", 92346, "03/18/2020", "04/18/2020"),
-("","Games", 92346, "03/18/2020", "04/18/2020"),
+("Tiny Cthulhu","Games", 92346, "03/18/2020", "04/18/2020"),
 ("","Games", 92346, "03/18/2020", "04/18/2020"))
