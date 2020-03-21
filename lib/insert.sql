@@ -11,5 +11,23 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Nekojishi","Games", 69874, "03/18/2020", "04/18/2020"));
 
 INSERT INTO users (name, age) VALUES (
-("Bob", 50),
-)
+("Bob", ),
+("Joe", ),
+("Steve", ),
+("Kai", ),
+("Reginald", ),
+("Mutumbo", ),
+("Kovacs", ),
+("Woz", ),
+("Wiz", ),
+("Patar", ),
+("Spongegar", ),
+("Squidgar", ),
+("FweeFwee", ),
+("Flapjack", ),
+("Apolo Ono", ),
+("Whelm", ),
+("Wilhelmina", ),
+("Rheinhardt", ),
+("Kristen", ),
+("Alliso", ));
