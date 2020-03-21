@@ -1,6 +1,6 @@
 
 
-INSERT INTO users (name, age) VALUES (
+INSERT INTO users VALUES (
 ("Bob", 50),
 ("Joe", 30),
 ("Steve", 35),
