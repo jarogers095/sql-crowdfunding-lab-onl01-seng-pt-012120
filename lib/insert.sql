@@ -10,4 +10,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Tiny Cthulhu","Games", 58214, "03/18/2020", "04/18/2020"),
 ("Nekojishi","Games", 69874, "03/18/2020", "04/18/2020"));
 
-INSERT INTO users ()
+INSERT INTO users (name, age) VALUES (
+("Bob", 50),
+)
